@@ -1,0 +1,35 @@
+(dp0
+S'username'
+p1
+S'agg.pawas'
+p2
+sS'name'
+p3
+S'Pawas'
+p4
+sS'gender'
+p5
+S'male'
+p6
+sS'age'
+p7
+I16
+sS'diary'
+p8
+(lp9
+sS'password'
+p10
+S'Pawas123.'
+p11
+sS'recovery'
+p12
+(dp13
+S'What is the name of your first school?'
+p14
+S'rdps'
+p15
+sS'What was your favorite place to visit as a child?'
+p16
+S'delhi'
+p17
+ss.
